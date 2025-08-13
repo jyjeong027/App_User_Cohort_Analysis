@@ -1,5 +1,5 @@
 # Project Overview
-This project analyzes customer behavior by examining app engagement and purchase conversion using cohort analysis through SQL. 
+This project analyzes simulated customer behavior by examining app engagement and purchase conversion using cohort analysis in SQL.
 
 # Background 
 Company A is a grocery and non-grocery retailer (home & lifestyle products) that delivers weekly personalized promotions through its loyalty app.  
