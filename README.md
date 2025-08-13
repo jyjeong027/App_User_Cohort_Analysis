@@ -18,7 +18,6 @@ Despite opening the app, **approximately 15% of users do not complete a purchase
 - App_Opened + Purchased Customers
 
 **SQL Code in Repository**
-Modules:
 - 01_customer_group_segmentation.sql — Create customer cohorts
 - 02_shopping_frequency_analysis.sql — Analyze purchase frequency and app usage
 - 03_category_exclusivity_analysis.sql — Measure category-level exclusivity
