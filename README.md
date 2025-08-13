@@ -3,7 +3,7 @@ This project analyzes customer behavior by examining app engagement and purchase
 
 # Background 
 Company A is a grocery and non-grocery retailer (home & lifestyle products) that delivers weekly personalized promotions through its loyalty app.  
-Despite opening the app, **approximately 15% of users do not complete a purchase in the same week**, 
+Despite opening the app, **approximately 15% of users do not complete a purchase in the same week**. 
 
 # Business Objective and Problem Definition :
 **Objective**: Understand why a subset of users open the app but do not make purchases, and determine whether efforts should be made to convert them into active shoppers.
