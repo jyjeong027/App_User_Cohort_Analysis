@@ -33,7 +33,7 @@ Despite opening the app, **approximately 15% of users do not complete a purchase
 1.	**Customers have longer shopping cycles**
 - **Metrics:** Average trips/spend/app opens per period  
 - **Code Code:** `02_shopping_frequency_analysis.sql`  
-- **Results:** `App_Opened_Only` customers shop **3× less frequently** and spend **2× less** than `App_Opened + Purchased` customers.  
+- **Results:** `App_Opened_Only` customers shop **3× less frequently** and spend **2× less** than `App_Opened + Purchased` customers
 - **Conclusion:** Shopping frequency contributes to the gap, but does not fully explain it.
 
 2.	**Non-grocery exclusivity - home & lifestyle product purchasers who naturally have longer purchase cycles.**
